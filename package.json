@@ -1,0 +1,18 @@
+{
+  "name": "mitrc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
+}
